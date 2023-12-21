@@ -7,9 +7,9 @@ desktop app for all users can experience and post by our policy!
 
 
 Supported Operating Systems:
-Windows 7 64 bit
-Windows 10 64 bit
-Windows 11 64 bit
+Windows 7 64 bit, 
+Windows 10 64 bit, 
+Windows 11 64 bit, 
 
 
 sign up before using it to login!
